@@ -7,8 +7,7 @@
 ?>
 
 <!-- Remove the container if you want to extend the Footer to full width. -->
-<div class="container my-5">
-  <!-- Footer -->
+<!-- Footer -->
   <footer
           class="text-center text-lg-start text-white"
           style="background-color: #3e4551"
@@ -196,7 +195,6 @@
     <!-- Copyright -->
   </footer>
   <!-- Footer -->
-</div>
 <!-- End of .container -->
 </body>
 </html>
