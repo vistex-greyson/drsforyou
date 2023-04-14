@@ -1,3 +1,3 @@
 <?php
-include('top-nav.php');
+include('navs.php');
 ?>
