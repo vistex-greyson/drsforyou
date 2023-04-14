@@ -7,6 +7,7 @@
  */
 
 include('inc/assets.php');
+include('inc/index.php');
 
 if ( ! isset( $content_width ) ) {
 	$content_width = 800; /* pixels */

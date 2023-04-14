@@ -8,16 +8,40 @@
     </head>
     <!-- <h1>Header</h1> -->
 
-    <div class="collapse" id="navbarToggleExternalContent">
-  <div class="bg-dark p-4">
-    <h5 class="text-white h4">Collapsed content</h5>
-    <span class="text-body-secondary">Toggleable via the navbar brand.</span>
-  </div>
-</div>
-<nav class="navbar navbar-dark bg-dark">
-  <div class="container-fluid">
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-  </div>
-</nav>
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/VistexDrsForYou">Dr's For You</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+          <?php
+          wp_nav_menu(array(
+            'theme_location' => 'Drs For You ',
+            'container_class' => 'custom-menu-class',
+            'menu_id' => 'top-nav-menu',
+            'menu_class' => 'top-nav-bar',
+          ));
+
+          ?>
+
+        <?php
+          wp_nav_menu(array(
+            'theme_location' => 'Drs For You Top Menu',
+            'container_class' => 'drsforyou-top-nav-class',
+            'menu_id' => 'drsforyou-top-nav',
+            'menu_class' => 'top-menu-class',
+          ));
+
+        ?>
+          </li>
+        </ul>
+        <form class="d-flex">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </nav>

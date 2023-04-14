@@ -4,6 +4,6 @@
 
 get_header(); ?>
 
-<?php echo "template test" ?>
+<?php echo the_title(); ?>
 
 <?php get_footer(); ?>
