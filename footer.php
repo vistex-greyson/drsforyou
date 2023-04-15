@@ -8,10 +8,7 @@
 
 <!-- Remove the container if you want to extend the Footer to full width. -->
 <!-- Footer -->
-  <footer
-          class="text-center text-lg-start text-white"
-          style="background-color: #3e4551"
-          >
+  <footer class="text-center text-lg-start text-white bg-dark">
     <!-- Grid container -->
     <div class="container p-4 pb-0">
       <!-- Section: Links -->
@@ -20,14 +17,7 @@
         <div class="row">
           <!--Grid column-->
           <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
-            <h5 class="text-uppercase">FOOTER CONTENT</h5>
-
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Molestiae modi cum ipsam ad, illo possimus laborum ut
-              reiciendis obcaecati. Ducimus, quas. Corrupti, pariatur eaque?
-              Reiciendis assumenda iusto sapiente inventore animi?
-            </p>
+            <a href="#"><img src="/images/DFY-logo-white.png" /></a>
           </div>
           <!--Grid column-->
 
