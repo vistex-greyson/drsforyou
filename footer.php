@@ -17,7 +17,7 @@
         <div class="row">
           <!--Grid column-->
           <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
-            <a href="#"><img src="/images/DFY-logo-white.png" /></a>
+            <a href="#"><img src=".../DFY-logo-white.png" /></a>
           </div>
           <!--Grid column-->
 
