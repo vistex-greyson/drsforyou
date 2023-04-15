@@ -4,17 +4,20 @@
     Author URI: https://drs.vistex.com/
     Version: 1.0
 */
-:root{
-    --primary-color: #3498db;
-    --secondary-color: #2ecc71;
-    --bg-color: #f9f9f9;
+:root {
+  --primary-color: #3498db;
+  --secondary-color: #2ecc71;
+  --bg-color: #f9f9f9;
 }
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-  }
-  body {
-      background-color: var(--bg-color);
-      font-family: Helvetica;
-  }
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: var(--bg-color);
+  font-family: Helvetica;
+}
+a {
+  color: red;
+}

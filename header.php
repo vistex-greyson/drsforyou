@@ -26,16 +26,6 @@
           ));
 
           ?>
-
-        <?php
-          wp_nav_menu(array(
-            'theme_location' => 'Drs For You Top Menu',
-            'container_class' => 'drsforyou-top-nav-class',
-            'menu_id' => 'drsforyou-top-nav',
-            'menu_class' => 'top-menu-class',
-          ));
-
-        ?>
           </li>
         </ul>
         <form class="d-flex">
