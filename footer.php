@@ -36,12 +36,13 @@
             <h5 class="text-uppercase">Links</h5>
 
             <ul class="list-unstyled mb-0">
-              <?php
+                <li><a href="#!" class="text-white">
+                <?php
                 wp_nav_menu(array(
                     'theme_location' => 'footer-menu',
                     'container_class' => 'footer-class',
                 ));
-              ?>
+              ?></a></li>
             </ul>
           </div>
           <!--Grid column-->
