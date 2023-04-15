@@ -16,8 +16,8 @@
         <!--Grid row-->
         <div class="row">
           <!--Grid column-->
-          <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
-            <a href="#"><img src="http://localhost/VistexDrsForYou/wp-content/uploads/2023/04/DFY-logo-white.png" alt="DFY white logo" width="300" height="300"/></a>
+          <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+            <a href="/VistexDrsForYou"><img src="http://localhost/VistexDrsForYou/wp-content/uploads/2023/04/DFY-logo-white.png" alt="DFY white logo" width="300" height="300"/></a>
           </div>
           <!--Grid column-->
 
