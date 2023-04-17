@@ -27,6 +27,7 @@ body {
 .navbar-nav li {
   display: inline;
   padding: 5px 20px;
+  float: right;
 }
 .navbar-nav a {
   color: #000;

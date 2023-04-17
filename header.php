@@ -7,7 +7,9 @@
         <?php wp_head(); ?>
     </head>
     <!-- <h1>Header</h1> -->
-
+  <div class="dfy-top-bar bg-dark">
+    
+  </div>
   <nav class="navbar navbar-expand-lg bg-body-white">
     <div class="container-fluid">
       <a class="navbar-brand" href="/VistexDrsForYou"><img src="http://localhost/VistexDrsForYou/wp-content/uploads/2023/04/DFY-nav-logo.png" width="150" height="127"  alt="DFY nav color logo"/></a>
