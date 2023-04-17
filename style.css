@@ -18,6 +18,19 @@ body {
   background-color: var(--bg-color);
   font-family: Helvetica;
 }
-a {
-  color: red;
+.navbar-nav {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  list-style-image: none;
+}
+.navbar-nav li {
+  display: inline;
+  padding: 5px 20px;
+}
+.navbar-nav a {
+  color: #000;
+}
+.navbar-nav a:hover {
+  color: deeppink;
 }
