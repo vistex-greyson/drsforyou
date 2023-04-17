@@ -10,7 +10,7 @@
 
   <nav class="navbar navbar-expand-lg bg-body-white">
     <div class="container-fluid">
-      <a class="navbar-brand" href="/VistexDrsForYou"><img src="http://localhost/VistexDrsForYou/wp-content/uploads/2023/04/DFY-logo-color.png" alt="DFY color logo" width="300" height="300"/></a>
+      <a class="navbar-brand" href="/VistexDrsForYou"><img src="http://localhost/VistexDrsForYou/wp-content/uploads/2023/04/DFY-nav-logo.png" alt="DFY nav color logo"/></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
