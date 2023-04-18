@@ -7,10 +7,33 @@
         <?php wp_head(); ?>
     </head>
     <!-- <h1>Header</h1> -->
-  <div class="dfy-top-bar bg-dark">
-    
-  </div>
-  <nav class="navbar navbar-expand-lg bg-body-white">
+    <div class="dfy-top-bar container-fluid bg-dark p-0">
+        <div class="row gx-0 d-none d-lg-flex">
+            <div class="col-lg-7 px-5 text-start">
+                <div class="h-100 d-inline-flex align-items-center py-3 me-4">
+                    <small class="fa fa-phone-alt text-white me-2"></small>
+                    <small>+91 8261890890</small>
+                </div>
+                <div class="h-100 d-inline-flex align-items-center py-3">
+                    <small class="fa fa-envelope text-white me-2"></small>
+                    <small>info@doctorsforyou.org</small>
+                </div>
+            </div>
+            <div class="col-lg-5 px-5 text-end">
+                <div class="h-100 d-inline-flex align-items-center">
+                    <a class="btn btn-sm-square bg-dark text-white me-1" href=""><i class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-sm-square bg-dark text-white me-0" href=""><i class="fab fa-instagram"></i></a>
+                    <a class="btn btn-sm-square bg-dark text-white me-1" href=""><i class="fab fa-twitter"></i></a>
+                    <a class="btn btn-sm-square bg-dark text-white me-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                    <a class="btn btn-sm-square bg-dark text-white me-1" href=""><i class="fab fa-youtube-play"></i></a>
+                </div>
+                <div class="h-100 d-inline-flex align-items-center py-3 me-4">
+                    <button class="text-white bg-dark"><a href="#">Donate Online</a></button>
+                </div>
+            </div>
+        </div>
+    </div>
+  <nav class="navbar navbar-expand-lg bg-body-white dfy-navbar">
     <div class="container-fluid">
       <a class="navbar-brand" href="/VistexDrsForYou"><img src="http://localhost/VistexDrsForYou/wp-content/uploads/2023/04/DFY-nav-logo.png" width="150" height="127"  alt="DFY nav color logo"/></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
