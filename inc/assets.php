@@ -2,6 +2,7 @@
 
 function drsforyou_theme_scripts(){
     wp_enqueue_script('bootstrap.bundle.js', get_template_directory_uri(). '/assets/js/bootstrap.bundle.js');
+    wp_enqueue_script('fontawesome.js', get_template_directory_uri(). '/assets/js/fontawesome.js');
 }
 add_action('wp_enqueue_scripts','drsforyou_theme_scripts');
 
