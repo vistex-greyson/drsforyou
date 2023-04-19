@@ -4,6 +4,8 @@
         <meta charset="<?php bloginfo( 'charset' ); ?>" />
         <title><?php wp_title(); ?></title>
         <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
+        <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <?php wp_head(); ?>
     </head>
     <!-- <h1>Header</h1> -->
