@@ -15,11 +15,11 @@
         <div class="row gx-0 d-none d-lg-flex">
             <div class="col-lg-7 px-5 text-start">
                 <div class="h-100 d-inline-flex align-items-center py-3 me-4">
-                    <small class="fa fa-phone-alt text-white me-2"></small>
+                    <small class="fa fa-phone text-white me-2"></small>
                     <small>+91 8261890890</small>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center py-3">
-                    <small class="fa fa-envelope text-white me-2"></small>
+                    <small class="far fa-envelope text-white me-2"></small>
                     <small>info@doctorsforyou.org</small>
                 </div>
             </div>
@@ -32,7 +32,7 @@
                     <a class="btn btn-sm-square bg-dark text-white me-1" href="#"><i class="fab fa-youtube"></i></a>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center py-3 me-4">
-                    <button class="text-white bg-dark"><a href="#">Donate Online</a></button>
+                    <button class="text-white bg-dark donate-button"><a href="#">Donate Online</a></button>
                 </div>
             </div>
         </div>

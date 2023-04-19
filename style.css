@@ -39,3 +39,13 @@ body {
 .dfy-top-bar {
   color: #fff;
 }
+
+.donate-button {
+  padding: 8px;
+  border: none;
+}
+
+.donate-button a {
+  color: #fff;
+  text-decoration: none;
+}
