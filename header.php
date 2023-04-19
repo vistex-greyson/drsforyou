@@ -5,7 +5,9 @@
         <title><?php wp_title(); ?></title>
         <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/js/all.min.js" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <?php wp_head(); ?>
     </head>
@@ -24,11 +26,11 @@
             </div>
             <div class="col-lg-5 px-5 text-end">
                 <div class="h-100 d-inline-flex align-items-center">
-                    <a class="btn btn-sm-square bg-dark text-white me-1" href=""><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-sm-square bg-dark text-white me-0" href=""><i class="fab fa-instagram"></i></a>
-                    <a class="btn btn-sm-square bg-dark text-white me-1" href=""><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-sm-square bg-dark text-white me-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                    <a class="btn btn-sm-square bg-dark text-white me-1" href=""><i class="fab fa-youtube-play"></i></a>
+                    <a class="btn btn-sm-square bg-dark text-white me-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-sm-square bg-dark text-white me-0" href="#"><i class="fab fa-instagram"></i></a>
+                    <a class="btn btn-sm-square bg-dark text-white me-1" href="#"><i class="fab fa-twitter"></i></a>
+                    <a class="btn btn-sm-square bg-dark text-white me-1" href="#"><i class="fab fa-linkedin-in"></i></a>
+                    <a class="btn btn-sm-square bg-dark text-white me-1" href="#"><i class="fab fa-youtube"></i></a>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center py-3 me-4">
                     <button class="text-white bg-dark"><a href="#">Donate Online</a></button>
