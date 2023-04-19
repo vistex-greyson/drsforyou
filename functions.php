@@ -63,3 +63,7 @@ function add_widget_support() {
 }
 // Hook the widget
 add_action( 'widgets_init', 'add_widget_support' );
+
+// Global Stylesheets
+wp_enqueue_style( 'bootstrap-5', get_template_directory_uri() . '/assets/css/bootstrap.min.css' );
+wp_enqueue_style( 'font-awesome', get_template_directory_uri() . '/assets/css/fontawesome.min.css', array(), '1.0', 'all');
