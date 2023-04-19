@@ -64,11 +64,6 @@ function add_widget_support() {
 // Hook the widget
 add_action( 'widgets_init', 'add_widget_support' );
 
- // Global Stylesheets
-	function add_font_awesome()
-	{
-	wp_enqueue_style( 'style', get_stylesheet_uri() );
-	wp_enqueue_style( 'font-awesome', get_template_directory_uri().'assets/css/fontawesome.min.css');
-	}
-	add_action( 'wp_enqueue_scripts', 'add_font_awesome' )
+ 
+	
 
