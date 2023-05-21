@@ -51,7 +51,7 @@ body {
 }
 
 @media (max-width: 480px) {
-  #top-nav-menu ul {
+  .navbar-nav li {
     display: flex;
     flex-direction: column;
     text-align: center;
