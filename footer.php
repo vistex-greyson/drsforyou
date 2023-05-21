@@ -10,11 +10,11 @@
   <footer class="text-center text-lg-start text-white bg-dark">
     <div class="container-fluid p-4 pb-0">
       <section class="">
-        <div class="row">
-          <div class="col-lg-3">
-            <a href="/VistexDrsForYou"><img src="http://localhost/VistexDrsForYou/wp-content/uploads/2023/04/DFY-logo-white.png" alt="DFY white logo" width="300" height="300"/></a>
+        <div class="row align-items-end pb-3">
+          <div class="col-lg-4">
+            <a href="/VistexDrsForYou"><img src="http://localhost/VistexDrsForYou/wp-content/uploads/2023/04/cropped-DFY-logo-white-e1684704358333.png" alt="DFY white logo"/></a>
           </div>
-          <div class="col-lg-3">
+          <div class="col-lg-2">
             <div class="footer-copyright">
               <p>© 2023 Dr's For You.</p>
               <p>All Rights Reserved.</p>
