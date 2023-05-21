@@ -6,111 +6,43 @@
 
 ?>
 
-<!-- Footer -->
+  <!-- Footer -->
   <footer class="text-center text-lg-start text-white bg-dark">
-    <!-- Grid container -->
-    <div class="container p-4 pb-0">
-      <!-- Section: Links -->
+    <div class="container-fluid p-4 pb-0">
       <section class="">
-        <!--Grid row-->
         <div class="row">
-          <!--Grid column-->
-          <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+          <div class="col-lg-3">
             <a href="/VistexDrsForYou"><img src="http://localhost/VistexDrsForYou/wp-content/uploads/2023/04/DFY-logo-white.png" alt="DFY white logo" width="300" height="300"/></a>
           </div>
-          <!--Grid column-->
-
-          <!--Grid column-->
-          <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
-            <h5 class="text-uppercase">Links</h5>
-
-            <ul class="list-unstyled mb-0">
-                <li><a href="#!" class="text-white">
-                <?php
-                wp_nav_menu(array(
-                    'theme_location' => 'footer-menu',
-                    'container_class' => 'footer-class',
-                ));
-              ?></a></li>
-            </ul>
+          <div class="col-lg-3">
+            <div class="footer-copyright">
+              <p>© 2023 Dr's For You.</p>
+              <p>All Rights Reserved.</p>
+            </div>
           </div>
-          <!--Grid column-->
-
-          <!--Grid column-->
-          <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
-            <h5 class="text-uppercase">Links</h5>
-
-            <ul class="list-unstyled mb-0">
-              <li>
-                <a href="#!" class="text-white">Link 1</a>
-              </li>
-              <li>
-                <a href="#!" class="text-white">Link 2</a>
-              </li>
-              <li>
-                <a href="#!" class="text-white">Link 3</a>
-              </li>
-              <li>
-                <a href="#!" class="text-white">Link 4</a>
-              </li>
-            </ul>
+          <div class="col-lg-2">
+            <div class="footer-phone-email">
+              <p>+91 8261890890</p>
+              <p>info@doctorsforyou.org</p>
+            </div>  
           </div>
-          <!--Grid column-->
-
-          <!--Grid column-->
-          <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
-            <h5 class="text-uppercase">Links</h5>
-
-            <ul class="list-unstyled mb-0">
-              <li>
-                <a href="#!" class="text-white">Link 1</a>
-              </li>
-              <li>
-                <a href="#!" class="text-white">Link 2</a>
-              </li>
-              <li>
-                <a href="#!" class="text-white">Link 3</a>
-              </li>
-              <li>
-                <a href="#!" class="text-white">Link 4</a>
-              </li>
-            </ul>
+          <div class="col-lg-2">
+            <div class="footer-privacy">
+              <p><a href="#">Privacy Policy</a></p>
+            </div> 
           </div>
-          <!--Grid column-->
-
-          <!--Grid column-->
-          <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
-            <h5 class="text-uppercase">Links</h5>
-
-            <ul class="list-unstyled mb-0">
-              <li>
-                <a href="#!" class="text-white">Link 1</a>
-              </li>
-              <li>
-                <a href="#!" class="text-white">Link 2</a>
-              </li>
-              <li>
-                <a href="#!" class="text-white">Link 3</a>
-              </li>
-              <li>
-                <a href="#!" class="text-white">Link 4</a>
-              </li>
-            </ul>
+          <div class="col-lg-2">
+            <div class="footer-socials">
+              <p><a href="#">Facebook</a></p>
+              <p><a href="#">Instagram</a></p>
+              <p><a href="#">Twitter</a></p>
+              <p><a href="#">LinkedIn</a></p>
+              <p><a href="#">YouTube</a></p>
+            </div>
           </div>
-          <!--Grid column-->
         </div>
-        <!--Grid row-->
       </section>
-      <!-- Section: Links -->
-
-    <!-- Copyright -->
-    <div class="text-center p-3">
-      © 2023 Copyright:
-      <a class="text-white" href="#"
-         >Dr's For You</a
-        >
     </div>
-    <!-- Copyright -->
   </footer>
   <!-- Footer -->
 <!-- End of .container -->
