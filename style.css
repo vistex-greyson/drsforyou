@@ -49,3 +49,9 @@ body {
   color: #fff;
   text-decoration: none;
 }
+
+#top-nav-menu .top-nav-bar ul {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
