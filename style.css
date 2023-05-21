@@ -50,7 +50,7 @@ body {
   text-decoration: none;
 }
 
-#top-nav-menu .top-nav-bar ul {
+#top-nav-menu ul {
   display: flex;
   flex-direction: column;
   text-align: center;
