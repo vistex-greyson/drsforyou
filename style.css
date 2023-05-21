@@ -55,6 +55,10 @@ body {
   text-decoration: none;
 }
 
+.dfy-footer {
+  line-height: 0.8rem;
+}
+
 @media (max-width: 480px) {
   .navbar-nav li {
     display: flex;
