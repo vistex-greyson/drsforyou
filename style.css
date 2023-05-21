@@ -45,7 +45,12 @@ body {
   border: none;
 }
 
-.donate-button a {
+.dfy-top-bar a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.dfy-footer a {
   color: #fff;
   text-decoration: none;
 }
