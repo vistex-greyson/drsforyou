@@ -3,7 +3,7 @@
 
 get_header(); 
 
-echo the_title();
+
 ?>
 <section class="dfy-homepage-hero">
     <div class="container-fluid">
