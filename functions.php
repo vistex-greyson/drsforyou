@@ -64,6 +64,15 @@ function add_widget_support() {
 // Hook the widget
 add_action( 'widgets_init', 'add_widget_support' );
 
- 
+// Adding Bootstrap 5
+function dfy_script() {
+	wp_enqueue_style( "style", get_stylesheet_uri() );
+	wp_enqueue_style("bootstrap5-css", "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css")
+
+	wp_enqueue_script( "bootstrap5-js", get_template_directory_uri() . "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js");
+}
+
+add_action( "wp_enqueue_scripts", "dfy_script");
+
 	
 
