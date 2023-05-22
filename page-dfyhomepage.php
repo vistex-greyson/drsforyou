@@ -1,12 +1,35 @@
 <?php
 /* Template Name: DFY Homepage */
 
+get_header(); 
 
-get_header(); ?>
-
-<?php 
 echo the_title(); 
 echo the_content();
 ?>
+<section class="dfy-homepage-hero">
+    <div class="container-fluid">
+        <div class="row">
+            <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img class="d-block w-100" src="/images/dfy-homepage-1.png" alt="First slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="/images/dfy-homepage-2.png" alt="Second slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="/images/dfy-homepage-3.png" alt="Third slide">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
 
 <?php get_footer(); ?>
