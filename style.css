@@ -86,6 +86,10 @@ body {
   background-color: #9f204d;
 }
 
+.header-image {
+  padding: 0;
+}
+
 .dark-btn {
   text-transform: uppercase;
 }
