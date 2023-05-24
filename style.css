@@ -59,6 +59,11 @@ body {
   line-height: 0.8rem;
 }
 
+.hero-btn {
+  color: #9f204d;
+  text-transform: uppercase;
+}
+
 @media (max-width: 480px) {
   .navbar-nav li {
     display: flex;
