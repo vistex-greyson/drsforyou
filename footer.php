@@ -10,12 +10,12 @@
   <footer class="text-center text-lg-start text-white bg-dark">
     <div class="container-fluid" style="padding-top: 100px;">
       <section class="dfy-footer">
-        <div class="col-lg-12" style="display: flex; justify-content: center; position: relative; top: -220px;">
-          <a href="#"><img src="http://localhost/VistexDrsForYou/wp-content/uploads/2023/05/footer-img.png" alt="DFY footer img"></a>
+        <div class="col-lg-12" style="display: flex; justify-content: center; position: relative; top: -100px;">
+          <a href="#"><img src="https://drs.vistex.com/wp-content/uploads/2023/05/footer-img-1.png" width="1500" alt="DFY footer img"></a>
         </div>
         <div class="row align-items-end pb-3">
           <div class="col-lg-4">
-            <a href="/VistexDrsForYou"><img src="http://localhost/VistexDrsForYou/wp-content/uploads/2023/04/cropped-DFY-logo-white-e1684704358333.png" width="200" alt="DFY white logo"/></a>
+            <a href="/VistexDrsForYou"><img src="https://drs.vistex.com/wp-content/uploads/2023/05/DFY-logo-white-.png" width="200" alt="DFY white logo"/></a>
           </div>
           <div class="col-lg-2">
             <div class="footer-copyright">
