@@ -45,6 +45,19 @@ body {
   border: none;
 }
 
+.pink-number {
+  color: #9f204d;
+  font-size: 50px;
+}
+
+.grey-text {
+  color: #525252;
+}
+
+.pink-line {
+  border: 3px solid #9f204d;
+}
+
 .dfy-top-bar a {
   color: #fff;
   text-decoration: none;
