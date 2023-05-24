@@ -8,10 +8,10 @@
 
   <!-- Footer -->
   <footer class="text-center text-lg-start text-white bg-dark">
-    <div class="container-fluid" style="padding-top: 100px;">
+    <div class="container-fluid" style="padding-top: 0px;">
       <section class="dfy-footer">
-        <div class="col-lg-12" style="display: flex; justify-content: center; position: relative; top: -100px;">
-          <a href="#"><img src="https://drs.vistex.com/wp-content/uploads/2023/05/footer-img-1.png" width="1500" alt="DFY footer img"></a>
+        <div class="col-lg-12" style="display: flex; justify-content: center; position: relative; top: -115px;">
+          <a href="#"><img src="https://drs.vistex.com/wp-content/uploads/2023/05/footer-img-1.png" width="1000" alt="DFY footer img"></a>
         </div>
         <div class="row align-items-end pb-3">
           <div class="col-lg-4">
