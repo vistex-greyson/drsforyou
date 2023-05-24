@@ -33,13 +33,17 @@ body {
   text-decoration: none;
 }
 .navbar-nav a:hover {
+  text-decoration-color: #9f204d;
   text-decoration: underline;
-  text-decoration-color: deeppink;
+  text-decoration-thickness: 5px;
 }
 .dfy-top-bar {
   color: #fff;
 }
 
+.dfy-mid-section {
+  padding-top: 80px;
+}
 .donate-button {
   padding: 8px;
   border: none;
@@ -48,6 +52,8 @@ body {
 .pink-number {
   color: #9f204d;
   font-size: 50px;
+  width: 250px;
+  opacity: unset;
 }
 
 .grey-text {
