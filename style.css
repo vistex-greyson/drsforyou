@@ -90,6 +90,10 @@ body {
   text-transform: uppercase;
 }
 
+.dark-btn:hover {
+  background-color: #9f204d;
+}
+
 .icons-col {
   display: flex;
   align-items: end;
