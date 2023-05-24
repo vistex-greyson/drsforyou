@@ -46,6 +46,10 @@ body {
   color: #fff;
 }
 
+.dfy-homepage-hero {
+  padding: 0;
+}
+
 .dfy-mid-section {
   padding-top: 80px;
 }
@@ -86,7 +90,7 @@ body {
   background-color: #9f204d;
 }
 
-.header-image {
+.dfy-header-image {
   padding: 0;
 }
 
