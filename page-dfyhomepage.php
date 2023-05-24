@@ -13,7 +13,7 @@ get_header();
                     <div class="carousel-item active">
                         <img class="d-block w-100" src="http://localhost/VistexDrsForYou/wp-content/uploads/2023/05/dfy-homepage-1.png" alt="First slide">
                     </div>
-                    <div class="carousel-item">
+                    <div class="carousel-item new">
                         <img class="d-block w-100" src="http://localhost/VistexDrsForYou/wp-content/uploads/2023/05/dfy-homepage-2.png" alt="Second slide">
                     </div>
                     <div class="carousel-item">
