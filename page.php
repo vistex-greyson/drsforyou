@@ -11,17 +11,27 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img class="d-block w-100" src="https://drs.vistex.com/wp-content/uploads/2023/05/dfy-homepage-1-1.png" alt="First slide">
-                        <div class="carousel-caption d-md-block">
-                            <h1>Guided by humanitarian principles of humanity, impartiality, and neutrality.</h1>
-                            <p>Providing sustainable, equitable, effective, and efficient health care services to the most vulnerable individuals and communities.</p>
+                        <div class="dfy-hero-caption">
+                            <h1 class="hero-title">Guided by humanitarian principles of humanity, impartiality, and neutrality.</h1>
+                            <p class="hero-p">Providing sustainable, equitable, effective, and efficient health care services to the most vulnerable individuals and communities.</p>
                             <p class="hero-btn-outer"><a class="btn btn-lg btn-white hero-btn" href="#">donate now</a></p>
                         </div>
                     </div>
-                    <div class="carousel-item new">
+                    <div class="carousel-item">
                         <img class="d-block w-100" src="https://drs.vistex.com/wp-content/uploads/2023/05/dfy-homepage-2-1.png" alt="Second slide">
+                        <div class="dfy-hero-caption">
+                            <h1 class="hero-title">Guided by humanitarian principles of humanity, impartiality, and neutrality.</h1>
+                            <p class="hero-p">Providing sustainable, equitable, effective, and efficient health care services to the most vulnerable individuals and communities.</p>
+                            <p class="hero-btn-outer"><a class="btn btn-lg btn-white hero-btn" href="#">donate now</a></p>
+                        </div>
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100" src="https://drs.vistex.com/wp-content/uploads/2023/05/dfy-homepage-3-1.png" alt="Third slide">
+                        <div class="dfy-hero-caption">
+                            <h1 class="hero-title">Guided by humanitarian principles of humanity, impartiality, and neutrality.</h1>
+                            <p class="hero-p">Providing sustainable, equitable, effective, and efficient health care services to the most vulnerable individuals and communities.</p>
+                            <p class="hero-btn-outer"><a class="btn btn-lg btn-white hero-btn" href="#">donate now</a></p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -32,17 +42,17 @@
 <section class="dfy-mid-section">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-4 offset-md-2">
+            <div class="col-lg-3 col-md-3 offset-md-3">
                 <h3>Doctors For You International is an extended arm of Doctors For You India</h3>
                 <p>The organization is pioneer in public health care services to marginalized populations and a leader among entities for disaster relief response in the shortest period of time.</p>
-                <p class="dark-btn"><a class="btn btn-lg btn-dark text-white" href="#">learn more</a></p>
+                <p class="mid-dark-btn"><a class="btn btn-lg btn-dark text-white dark-btn" href="#">learn more</a></p>
             </div>
-            <div class="col-lg-2 icons-col">
-                <p><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/calendar.png" width="50" alt="calender image"></p>
-                <p><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/india.png" width="50" alt="india image"></p>
-                <p><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/location.png" width="50" alt="location-ping image"></p>
+            <div class="col-lg-1 icons-col">
+                <p class="calendar"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/calendar.png" width="50" alt="calendar image"></p>
+                <p class="india"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/india.png" width="50" alt="india image"></p>
+                <p class="location-ping"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/location.png" width="50" alt="location-ping image"></p>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-2">
                 <div>
                     <p class="pink-number">15</p>
                     <p class="grey-text">Number of <b>years operating</b> in India</p>
