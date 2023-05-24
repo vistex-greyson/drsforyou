@@ -7,7 +7,7 @@
 <section class="dfy-homepage-hero">
     <div class="container-fluid">
         <div class="row">
-            <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+            <div id="dfyHeroCarousel" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img class="d-block w-100" src="https://drs.vistex.com/wp-content/uploads/2023/05/dfy-homepage-1-1.png" alt="First slide">
@@ -33,3 +33,9 @@
 
 
 <?php get_footer(); ?>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.7.0.slim.min.js" integrity="sha256-tG5mcZUtJsZvyKAxYLVXrmjKBVLd6VpVccqz/r4ypFE=" crossorigin="anonymous"></script>
+<script type="text/javascript">// <![CDATA[
+        var $ = jQuery.noConflict(); $(document).ready(function()  { $('#dfyHeroCarousel').carousel({ interval: 3000, cycle: true }); });
+        // ]]></script>
