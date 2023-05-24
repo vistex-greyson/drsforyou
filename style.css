@@ -58,13 +58,12 @@ body {
 .dfy-hero-caption {
   position: relative;
   bottom: 680px;
-  left: 120px;
   text-align: left;
-  width: 540px;
+  width: 835px;
 }
 
 .dfy-hero-caption .hero-title {
-  font-size: 50px;
+  font-size: 70px;
   color: #fff;
   font-weight: bold;
 }
