@@ -7,12 +7,12 @@ DFY Hero Slider on the Homepage
 
 <div class="dfy-hero-carousel">
   <div>
-    <img src="https://images.pexels.com/photos/36753/flower-purple-lical-blosso.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="purple flower">
+    <img src="https://drs.vistex.com/wp-content/uploads/2023/05/dfy-homepage-1-1.png" alt="dfy-1">
   </div>
   <div>
-    <img src="https://empire-s3-production.bobvila.com/slides/26814/vertical_slide_wide/ganzia.jpg?1532362531" alt="orange flower">
+    <img src="https://drs.vistex.com/wp-content/uploads/2023/05/dfy-homepage-2-1.png" alt="dfy-2">
   </div>
   <div>
-    <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/957C/production/_111686283_pic1.png.webp" alt="pink flower">
+    <img src="https://drs.vistex.com/wp-content/uploads/2023/05/dfy-homepage-3-1.png" alt="dfy-3">
   </div>
 </div>
