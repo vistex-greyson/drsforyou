@@ -36,6 +36,7 @@ body {
 .navbar-nav a {
   color: #333333 !important;
   text-decoration: none;
+  font-weight: bold;
 }
 
 .navbar-nav a:hover {
@@ -49,6 +50,7 @@ body {
 
 .dfy-homepage-hero {
   padding: 0;
+  max-height: 978px;
 }
 
 .dfy-mid-section {
@@ -62,18 +64,20 @@ body {
 
 .dfy-hero-carousel {
   width: 100%;
-  min-height: 978px;
+  max-height: 978px;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
 .dfy-hero-caption {
   position: relative;
-  bottom: 680px;
+  bottom: 780px;
   text-align: left;
-  width: 835px !important;
+  width: 865px;
 }
 
 .dfy-hero-caption .hero-title {
-  font-size: 70px;
+  font-size: 75px;
   color: #fff;
   font-weight: bold;
 }
@@ -152,6 +156,10 @@ body {
 .dfy-footer a {
   color: #fff;
   text-decoration: none;
+}
+
+.dfy-footer a:hover {
+  color: #9f204d;
 }
 
 .dfy-footer {
