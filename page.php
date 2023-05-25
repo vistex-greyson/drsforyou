@@ -7,7 +7,8 @@
 <section class="dfy-homepage-hero">
     <div class="container-fluid">
         <div class="row">
-            <div id="dfyHeroCarousel" class="carousel slide" data-ride="carousel">
+            <?php get_template_part('hero-carousel') ?>
+            <!-- <div id="dfyHeroCarousel" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img class="d-block w-100" src="https://drs.vistex.com/wp-content/uploads/2023/05/dfy-homepage-1-1.png" alt="First slide">
@@ -34,7 +35,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
