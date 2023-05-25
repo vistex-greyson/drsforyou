@@ -34,12 +34,13 @@ body {
 }
 
 .navbar-nav a {
-  color: #000;
+  color: #333333 !important;
   text-decoration: none;
 }
 
 .navbar-nav a:hover {
   text-decoration: underline solid #9f204d 3px;
+  color: #333333 !important;
 }
 
 .dfy-top-bar {
@@ -63,7 +64,7 @@ body {
   position: relative;
   bottom: 680px;
   text-align: left;
-  width: 835px;
+  width: 835px !important;
 }
 
 .dfy-hero-caption .hero-title {
@@ -79,15 +80,15 @@ body {
 }
 
 .hero-btn {
-  color: #9f204d;
+  color: #9f204d !important;
   text-transform: uppercase;
-  background-color: #fff;
+  background-color: #fff !important;
   font-weight: bold;
 }
 
 .hero-btn:hover {
-  color: #fff;
-  background-color: #9f204d;
+  color: #fff !important;
+  background-color: #9f204d !important;
 }
 
 .dfy-header-image {
@@ -99,7 +100,7 @@ body {
 }
 
 .dark-btn:hover {
-  background-color: #9f204d;
+  background-color: #9f204d !important;
 }
 
 .icons-col {
