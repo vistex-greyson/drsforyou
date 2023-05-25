@@ -62,6 +62,7 @@ body {
 
 .dfy-hero-carousel {
   width: 100%;
+  min-height: 978px;
 }
 
 .dfy-hero-caption {

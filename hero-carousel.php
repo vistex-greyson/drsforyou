@@ -5,7 +5,7 @@ DFY Hero Slider on the Homepage
 */
 ?>
 
-<div class="dfy-hero-carousel" style="margin-left: -20px;">
+<div class="dfy-hero-carousel">
     <div>
         <img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/dfy-homepage-1-1.png" width="" alt="dfy-1">
         <div class="col-lg-9 offset-lg-3 dfy-hero-caption">
