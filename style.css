@@ -175,8 +175,6 @@ body {
 }
 
 .dfy-project-carousel button.slick-prev.slick-arrow {
-  left: 1060px;
-  top: -30px;
   z-index: 1;
 }
 
@@ -188,8 +186,6 @@ body {
 }
 
 .dfy-project-carousel button.slick-next.slick-arrow {
-  right: 15px;
-  top: -30px;
   z-index: 1;
 }
 
