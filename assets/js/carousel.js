@@ -5,7 +5,12 @@
     }
 
     initiateCarousel() {
-      $(".dfy-hero-carousel").slick()
+      $(".dfy-hero-carousel").slick({
+        autoplay: true,
+        autoplaySpeed: 2000,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+      })
     }
   }
 
