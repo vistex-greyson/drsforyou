@@ -60,6 +60,10 @@ body {
   border: none;
 }
 
+.dfy-hero-carousel {
+  width: 100%;
+}
+
 .dfy-hero-caption {
   position: relative;
   bottom: 680px;
