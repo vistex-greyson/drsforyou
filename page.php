@@ -46,6 +46,14 @@
     </div>
 </section>
 
+<section class="dfy-project-slider">
+    <div class="container-fluid">
+        <div class="row">
+            <?php get_template_part('project-carousel') ?>
+        </div>
+    </div>
+</section>
+
 
 <?php get_footer(); ?>
 
