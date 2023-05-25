@@ -26,6 +26,30 @@ DFY "Our Projects" Slider on the Homepage
                     <img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/tuberculosis.png" alt="tuberculosis-img">
                     <p class="slider-text">Tuberculosis Program</p>
                 </div>
+                <div class="col-lg-3">
+                    <img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/skill.png" alt="skill-img">
+                    <p class="slider-text">Skill Development</p>
+                </div>
+                <div class="col-lg-3">
+                    <img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/skill.png" alt="skill-img">
+                    <p class="slider-text">Skill Development</p>
+                </div>
+                <div class="col-lg-3">
+                    <img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/skill.png" alt="skill-img">
+                    <p class="slider-text">Skill Development</p>
+                </div>
+                <div class="col-lg-3">
+                    <img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/skill.png" alt="skill-img">
+                    <p class="slider-text">Skill Development</p>
+                </div>
+                <div class="col-lg-3">
+                    <img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/skill.png" alt="skill-img">
+                    <p class="slider-text">Skill Development</p>
+                </div>
+                <div class="col-lg-3">
+                    <img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/skill.png" alt="skill-img">
+                    <p class="slider-text">Skill Development</p>
+                </div>
             </div>
         </div>
     </div>
