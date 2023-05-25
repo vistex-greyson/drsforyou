@@ -9,7 +9,7 @@ DFY "Our Projects" Slider on the Homepage
     <div class="container-fluid">
         <h1 class="slider-title">Our Projects</h1>
         <div class="row justify-content-center">
-            <div class="project-carousel">
+            <div class="project-carousel" style="width: 90% !important">
                 <div class="col-lg-2 text-align-center">
                     <img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/maternal.png" width="362" alt="maternal-img">
                     <p class="slider-text">Maternal & Child Health</p>

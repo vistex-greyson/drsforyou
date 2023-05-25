@@ -48,7 +48,7 @@
 
 <section class="dfy-project-slider">
     <div class="container-fluid">
-        <div class="row">
+        <div class="row justify-content-center">
             <?php get_template_part('project-carousel') ?>
         </div>
     </div>
