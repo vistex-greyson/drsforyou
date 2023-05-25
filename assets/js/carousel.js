@@ -7,7 +7,7 @@
     initiateCarousel() {
       $(".dfy-hero-carousel").slick({
         autoplay: true,
-        autoplaySpeed: 2000,
+        autoplaySpeed: 3000,
         slidesToShow: 1,
         slidesToScroll: 1,
       })
