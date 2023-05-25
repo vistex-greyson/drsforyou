@@ -64,9 +64,12 @@ body {
 
 .dfy-hero-carousel {
   width: 100%;
-  max-height: 978px;
   padding-left: 0 !important;
   padding-right: 0 !important;
+}
+
+.dfy-hero-carousel .slick-list {
+  max-height: 978px;
 }
 
 .dfy-hero-caption {
