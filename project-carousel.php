@@ -7,7 +7,7 @@ DFY "Our Projects" Slider on the Homepage
 
 <div class="dfy-project-carousel">
     <div class="container-fluid">
-        <h2 class="slider-title">Our Projects</h2>
+        <h1 class="slider-title">Our Projects</h1>
         <div class="row justify-content-center">
             <div class="project-carousel">
                 <div class="col-lg-3">
