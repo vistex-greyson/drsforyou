@@ -189,6 +189,19 @@ body {
   z-index: 1;
 }
 
+.dfy-support-section {
+  padding-top: 200px;
+}
+
+.recognitions-section {
+  padding-top: 80px;
+}
+
+.recog-title {
+  text-align: center;
+  font-weight: bold;
+}
+
 .dfy-footer a {
   color: #fff;
   text-decoration: none;
