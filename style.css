@@ -167,6 +167,10 @@ body {
   text-align: center;
 }
 
+.dfy-project-carousel .project-carousel .project-slide {
+  width: 350px !important;
+}
+
 .dfy-project-carousel .slick-prev:before {
   font-family: "Font Awesome 5 Free";
   content: "\f104";
