@@ -173,7 +173,7 @@ body {
 
 .dfy-project-carousel .slick-prev:before {
   font-family: "Font Awesome 6 Free";
-  content: "\f104";
+  content: "\f053";
   font-size: 2rem;
   color: #9f204d;
 }
@@ -184,7 +184,7 @@ body {
 
 .dfy-project-carousel .slick-next:before {
   font-family: "Font Awesome 6 Free";
-  content: "\f105";
+  content: "\f054";
   font-size: 2rem;
   color: #9f204d;
 }
