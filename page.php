@@ -55,12 +55,12 @@
 </section>
 
 <section class="dfy-support-section">
-    <div class="container">
-        <div class="row justify-content-center">
+    <div class="container text-center">
+        <div class="row dfy-support-row">
             <div class="col-lg-6">
                 <img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/support-img.png" width="65%" alt="">
             </div>
-            <div class="col-lg-6 align-self-center">
+            <div class="col-6 col-sm-4 align-self-center"  style="text-align: left;">
                 <h2><b>Any amount counts to Support Doctors For You</b></h2> 
                 <p class="grey-text">As a not for profit organization, Doctors For You seeks support from various organizations and individuals. Any support from small to big can make a difference in someone’s life.shortest period of time.</p>
                 <p class="mid-dark-btn"><a class="btn btn-lg btn-dark text-white dark-btn" href="#">donate now</a></p>
@@ -72,12 +72,12 @@
 <section class="recognitions-section">
     <div class="container text-center">
         <div><h1 class="recog-title">Recognitions</h1></div>
-        <div class="row">
+        <div class="row recog-row-1">
             <div class="col-lg-4"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_1-1.png" width="60%" alt=""></div>
             <div class="col-lg-4"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_1-2.png" width="60%" alt=""></div>
             <div class="col-lg-4"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_1-3.png" width="60%" alt=""></div>
         </div>
-        <div class="row">
+        <div class="row recog-row-2">
             <div class="col-lg-4"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_2-1.png" width="60%" alt=""></div>
             <div class="col-lg-4"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_2-2.png" width="60%" alt=""></div>
             <div class="col-lg-4"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_2-3.png" width="60%" alt=""></div>
