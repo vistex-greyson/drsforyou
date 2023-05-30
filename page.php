@@ -70,17 +70,17 @@
 </section>
 
 <section class="recognitions-section">
-    <div class="container">
+    <div class="container text-center">
         <div><h1 class="recog-title">Recognitions</h1></div>
-        <div class="row justify-content-center">
-            <div class="col-lg-4 align-self-center"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_1-1.png" width="60%" alt=""></div>
-            <div class="col-lg-4 align-self-center"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_1-2.png" width="60%" alt=""></div>
-            <div class="col-lg-4 align-self-center"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_1-3.png" width="60%" alt=""></div>
+        <div class="row">
+            <div class="col-lg-4"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_1-1.png" width="60%" alt=""></div>
+            <div class="col-lg-4"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_1-2.png" width="60%" alt=""></div>
+            <div class="col-lg-4"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_1-3.png" width="60%" alt=""></div>
         </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-4 align-self-center"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_2-1.png" width="60%" alt=""></div>
-            <div class="col-lg-4 align-self-center"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_2-2.png" width="60%" alt=""></div>
-            <div class="col-lg-4 align-self-center"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_2-3.png" width="60%" alt=""></div>
+        <div class="row">
+            <div class="col-lg-4"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_2-1.png" width="60%" alt=""></div>
+            <div class="col-lg-4"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_2-2.png" width="60%" alt=""></div>
+            <div class="col-lg-4"><img class="img-responsive" src="https://drs.vistex.com/wp-content/uploads/2023/05/recog_2-3.png" width="60%" alt=""></div>
         </div>
     </div>
 </section>
