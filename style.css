@@ -171,26 +171,28 @@ body {
   width: 350px !important;
 }
 
-.dfy-project-carousel .slick-prev:before {
+/* .dfy-project-carousel .slick-prev:before {
+  
+} */
+
+.dfy-project-carousel button.slick-prev.slick-arrow {
+  z-index: 1;
   font-family: "Font Awesome 6 Free";
   content: "\f053";
   font-size: 2rem;
   color: #9f204d;
 }
 
-.dfy-project-carousel button.slick-prev.slick-arrow {
-  z-index: 1;
-}
+/* .dfy-project-carousel .slick-next:before {
+  
+} */
 
-.dfy-project-carousel .slick-next:before {
+.dfy-project-carousel button.slick-next.slick-arrow {
+  z-index: 1;
   font-family: "Font Awesome 6 Free";
   content: "\f054";
   font-size: 2rem;
   color: #9f204d;
-}
-
-.dfy-project-carousel button.slick-next.slick-arrow {
-  z-index: 1;
 }
 
 .dfy-support-section {
